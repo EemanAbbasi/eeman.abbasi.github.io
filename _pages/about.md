@@ -18,7 +18,7 @@ Mount Holyoke College - Computer Science and Biology
 
 # Relevant Experience     
 
-### Data Science Intern, [Concerto Biosciences](https://www.concertobio.com) <img src="https://github.com/user-attachments/assets/95984bcf-987a-44a0-88aa-693f2a240aed" alt="Concerto Biosciences Logo" width="400" style="float: right; margin-left: 10px; margin-bottom: 10px;" id="concerto-thumbnail" />
+### Data Science Intern, [Concerto Biosciences](https://www.concertobio.com) <img src="https://github.com/user-attachments/assets/95984bcf-987a-44a0-88aa-693f2a240aed" alt="Concerto Biosciences Logo" width="350" style="float: right; margin-left: 10px; margin-bottom: 10px;" id="concerto-thumbnail" />
 
 - Analyzed fluorescence-tagged image datasets using Python-based analysis to identify combinations of microbes whose interactions supress the disease indication. 
 - Nominated key microbial combinations for disease indications, aiding product development and presenting insights to leadership.
@@ -30,4 +30,4 @@ Mount Holyoke College - Computer Science and Biology
 [![bioRxiv](https://img.shields.io/badge/bioRxiv-Read-yellow)](https://www.biorxiv.org/content/10.1101/2022.03.03.482885v1)
 
 
-<iframe src="/files/paper1_slides.pdf" width="960" height="569" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" style="border:1px solid #ccc"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1Wij2YzWqCgd7qHOh4_ub3CPtB3YJ9twrwlKFuQEw0Tk/edit?usp=sharing" width="960" height="569" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" style="border:1px solid #ccc"></iframe>
