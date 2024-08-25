@@ -3,8 +3,9 @@ permalink: /
 ---
 
 <p>
+ <img src="https://github.com/EemanAbbasi/eeman.abbasi.github.io/raw/master/images/microbial_ecology.png" width="200" style="float: right; margin-left: 10px; margin-bottom: 10px;" />
+
   I’m a Ph.D. candidate in Microbial Ecology at the <a href="https://www.bio.upenn.edu/people/graduate-students">University of Pennsylvania</a>, with a background in Computer Science and Biological Sciences. Passionate about ecological medicine, I use mathematical models and bioinformatics to explore how host immune responses, diet, and the microbiome impact health and disease. My goal is to advance understanding of host-microbiome interactions and drive innovations in biomedical research. My academic journey began with a B.A. magna cum laude in Computer Science and Biology from Mount Holyoke College.
-  <img src="https://github.com/EemanAbbasi/eeman.abbasi.github.io/raw/master/images/microbial_ecology.png" width="200" style="float: right; margin-left: 10px; margin-bottom: 10px;" />
 </p>
 
 # Education
