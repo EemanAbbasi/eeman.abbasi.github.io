@@ -14,25 +14,7 @@ Mount Holyoke College - Computer Science and Biology
 
 # Relevant Experience     
 
-### Data Science Intern, Concerto Biosciences
-*April 2024 - Present*  
+### Data Science Intern, [Concerto Biosciences](https://www.concertobio.com) <img src="https://github.com/user-attachments/assets/95984bcf-987a-44a0-88aa-693f2a240aed" alt="Concerto Biosciences Logo" width="150" style="float: right; margin-left: 10px; margin-bottom: 10px;" id="concerto-thumbnail" />
 
-<img src="https://github.com/user-attachments/assets/95984bcf-987a-44a0-88aa-693f2a240aed" alt="Concerto Biosciences Logo" width="150" style="float: right; margin-left: 10px; margin-bottom: 10px;" id="concerto-thumbnail" />
-
-<button onclick="toggleDetails('concerto-details')" style="display: block; margin-top: 10px;">Show Details</button>
-
-<div id="concerto-details" style="display: none; margin-top: 10px;">
-  <p>- Analyzed fluorescence-tagged image-based datasets to uncover biological signatures and assess microbial synergy through Python-based data analysis.</p>
-  <p>- Collaborated with the Senior Data Scientist to enhance data filtering methods and develop new approaches for optimizing the data discovery process.</p>
-</div>
-
-<script>
-  function toggleDetails(id) {
-    var details = document.getElementById(id);
-    if (details.style.display === "none") {
-      details.style.display = "block";
-    } else {
-      details.style.display = "none";
-    }
-  }
-</script>
+- Analyzed fluorescence-tagged image-based datasets to uncover biological signatures and assess microbial synergy through Python-based data analysis.
+- Collaborated with the Senior Data Scientist to enhance data filtering methods and develop new approaches for optimizing the data discovery process.
