@@ -20,5 +20,9 @@ Mount Holyoke College - Computer Science and Biology
 
 ### Data Science Intern, [Concerto Biosciences](https://www.concertobio.com) <img src="https://github.com/user-attachments/assets/95984bcf-987a-44a0-88aa-693f2a240aed" alt="Concerto Biosciences Logo" width="250" style="float: right; margin-left: 10px; margin-bottom: 10px;" id="concerto-thumbnail" />
 
-- Analyzed fluorescence-tagged image-based datasets to uncover biological signatures and assess microbial synergy through Python-based data analysis.
-- Collaborated with the Senior Data Scientist to enhance data filtering methods and develop new approaches for optimizing the data discovery process.
+• Analyzed fluorescence-tagged image-based datasets to uncover biological signatures and assess microbial synergy through
+Python-based data analysis, leveraged AWS for data processing and storage.
+• Identified and nominated key microbial candidate combinations for disease indications, contributing to product
+development initiatives. Presented key insights to company leadership.
+• Collaborated with the Senior Data Scientist and the experimental discovery team to enhance data filtering methods and
+develop new machine learning approaches for optimizing data discovery process.
