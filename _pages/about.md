@@ -30,4 +30,4 @@ Mount Holyoke College - Computer Science and Biology
 [![bioRxiv](https://img.shields.io/badge/bioRxiv-Read-yellow)](https://www.biorxiv.org/content/10.1101/2022.03.03.482885v1)
 
 
-<iframe src=" /files/paper1_slides.pdf" width="960" height="569" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" style="border:1px solid #ccc"></iframe>
+<iframe src="/files/paper1_slides.pdf" width="960" height="569" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" style="border:1px solid #ccc"></iframe>
