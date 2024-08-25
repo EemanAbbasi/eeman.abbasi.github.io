@@ -18,7 +18,7 @@ Mount Holyoke College - Computer Science and Biology
 
 # Relevant Experience     
 
-### Data Science Intern, [Concerto Biosciences](https://www.concertobio.com) <img src="https://github.com/user-attachments/assets/95984bcf-987a-44a0-88aa-693f2a240aed" alt="Concerto Biosciences Logo" width="250" style="float: right; margin-left: 10px; margin-bottom: 10px;" id="concerto-thumbnail" />
+### Data Science Intern, [Concerto Biosciences](https://www.concertobio.com) <img src="https://github.com/user-attachments/assets/95984bcf-987a-44a0-88aa-693f2a240aed" alt="Concerto Biosciences Logo" width="400" style="float: right; margin-left: 10px; margin-bottom: 10px;" id="concerto-thumbnail" />
 
 - Analyzed fluorescence-tagged image datasets using Python-based analysis to identify combinations of microbes whose interactions supress the disease indication. 
 - Nominated key microbial combinations for disease indications, aiding product development and presenting insights to leadership.
@@ -27,7 +27,8 @@ Mount Holyoke College - Computer Science and Biology
 
 ### Host Control on Microbiome Assembly
 
-[![Source Code](https://img.shields.io/badge/Source_Code-View-brightgreen)](https://github.com/erolakcay/MicrobiomeCommunityAssembly)  [![Paper](https://img.shields.io/badge/Paper-Read-blue)](https://www.sciencedirect.com/science/article/abs/pii/S0040580924000662)
+[![Source Code](https://img.shields.io/badge/Source_Code-View-brightgreen)](https://github.com/erolakcay/MicrobiomeCommunityAssembly)  [![Paper](https://img.shields.io/badge/Paper-Read-blue)](https://www.sciencedirect.com/science/article/abs/pii/S0040580924000662) [![bioRxiv](https://img.shields.io/badge/bioRxiv-Read-yellow)](https://www.biorxiv.org/content/10.1101/2022.03.03.482885v1)
+
 
 #### Slides
 
