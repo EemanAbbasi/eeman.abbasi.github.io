@@ -20,7 +20,7 @@ repository               : "eeman.abbasi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Github.JPG"
+  avatar           : "github.JPG"
   name             : "Eeman Abbasi"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
