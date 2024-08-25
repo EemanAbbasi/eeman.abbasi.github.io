@@ -1,3 +1,14 @@
+---
+permalink:/
+author_profile: true
+redirect_from:
+- /about/
+- /about.html
+---
+  
+
+
+
 # About me
 
 I’m a PhD candidate in Microbial Ecology at the University of Pennsylvania, with a background in Computer Science and Biological Sciences. Passionate about ecological medicine, I use mathematical models and bioinformatics to explore how host immune responses, diet, and the microbiome impact health and disease. My goal is to advance understanding of host-microbiome interactions and drive innovations in biomedical research. 
