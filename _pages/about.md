@@ -22,7 +22,9 @@ Mount Holyoke College - Computer Science and Biology
 
 • Analyzed fluorescence-tagged image-based datasets to uncover biological signatures and assess microbial synergy through
 Python-based data analysis, leveraged AWS for data processing and storage.
+
 • Identified and nominated key microbial candidate combinations for disease indications, contributing to product
 development initiatives. Presented key insights to company leadership.
+
 • Collaborated with the Senior Data Scientist and the experimental discovery team to enhance data filtering methods and
 develop new machine learning approaches for optimizing data discovery process.
