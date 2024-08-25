@@ -6,10 +6,9 @@ I’m a PhD candidate in Microbial Ecology at the University of Pennsylvania, wi
 
 # Education
 
-PhD Candidate at University of Pennsylvania (Anticipated graduation September 2024)
-<img src="https://github.com/user-attachments/assets/28d18c41-6ef0-47c3-890e-fa9f2f3fe877" alt="University of Pennsylvania Logo" width="150" style="float: right; margin-left: 10px; margin-bottom: 10px;">
+PhD Candidate at University of Pennsylvania 
 
-Mount Holyoke College 
+Mount Holyoke College - B.A.,magna cum laude, Computer Science and Biology
 
 # Relevant Experience     
 
