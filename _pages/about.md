@@ -23,3 +23,13 @@ Mount Holyoke College - Computer Science and Biology
 - Analyzed fluorescence-tagged image datasets using Python-based analysis to identify combinations of microbes whose interactions supress the disease indication. 
 - Nominated key microbial combinations for disease indications, aiding product development and presenting insights to leadership.
 - Worked with the Senior Data Scientist to enhance data filtering processes and develop new machine learning methods for data optimization.
+
+
+### Host Control on Microbiome Assembly
+
+[![Source Code](https://img.shields.io/badge/Source_Code-View-brightgreen)]([https://github.com/yourusername/your-repo](https://github.com/erolakcay/MicrobiomeCommunityAssembly))  
+[![Paper](https://img.shields.io/badge/Paper-Read-blue)]([https://doi.org/your-paper-link](https://www.sciencedirect.com/science/article/abs/pii/S0040580924000662))  
+
+#### Slides
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3T6wMfgGbH3D8YER1CxwqTROjNLnFh24R3U9kU8cd1G3qGzm2Mm-pRjTz3Sg9ccw/embed?start=true&loop=true&delayms=60000" width="960" height="569" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" style="border:1px solid #ccc"></iframe>
