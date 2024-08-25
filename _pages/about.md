@@ -27,8 +27,7 @@ Mount Holyoke College - Computer Science and Biology
 
 ### Host Control on Microbiome Assembly
 
-[![Source Code](https://img.shields.io/badge/Source_Code-View-brightgreen)]([https://github.com/yourusername/your-repo](https://github.com/erolakcay/MicrobiomeCommunityAssembly))  
-[![Paper](https://img.shields.io/badge/Paper-Read-blue)]([https://doi.org/your-paper-link](https://www.sciencedirect.com/science/article/abs/pii/S0040580924000662))  
+[![Source Code](https://img.shields.io/badge/Source_Code-View-brightgreen)]([https://github.com/erolakcay/MicrobiomeCommunityAssembly](https://github.com/erolakcay/MicrobiomeCommunityAssembly)  [![Paper](https://img.shields.io/badge/Paper-Read-blue)]([https://www.sciencedirect.com/science/article/abs/pii/S0040580924000662](https://www.sciencedirect.com/science/article/abs/pii/S0040580924000662)  
 
 #### Slides
 
