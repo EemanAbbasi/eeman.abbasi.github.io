@@ -26,15 +26,7 @@ author:
   location         : "Philadelphia"
   employer         : "University of Pennsylvania"
   email            : "eabbasi@sas.upenn.edu" 
-
-  # Academic websites
-
-
-  # Repositories and software development
-
-  github           : "https://eemanabbasi.github.io/eeman.abbasi.github.io/"
   linkedin         : "https://www.linkedin.com/in/eeman-a-517b2a127/"
-
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
