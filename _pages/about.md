@@ -10,7 +10,7 @@ permalink: /
 
 # Education
 
-**Ph.D. Candidate**  
+**Biology Ph.D. Candidate**  
 University of Pennsylvania  
 
 **B.A., magna cum laude**  
@@ -25,10 +25,15 @@ Mount Holyoke College - Computer Science and Biology
 - Worked with the Senior Data Scientist to enhance data filtering processes and develop new machine learning methods for data optimization.
 
 
+### Community Ecology of the Cancer Microbiome and its Immune Context
+In this project, I utilized RNAseq and WGS data to analyze the TCGA cancer microbiome data, coupled with gene expression data to assess the host immune response. I applied metabolic modeling techniques to infer microbial interactions, such as competition and mutualism, within the community. The analysis revealed key relationships between microbiome richness, abundance, and immune gene expression, providing insights into the ecological dynamics driving that play a sttaustical significant role in patient prognosis. Detailed analysis workflows and data processing steps are showcased to highlight the methodology and the tools used in this research.
+
+<iframe src="https://docs.google.com/presentation/d/1yIWIkorXi7ipEFwIJdL2voSfnqBmCbevsTaI9RaPaQ0/embed?start=true&loop=true&delayms=3000" width="640" height="480" allow="autoplay"></iframe>
+
+
 ### Host Control on Microbiome Assembly
 [![Source Code](https://img.shields.io/badge/Source_Code-View-brightgreen)](https://github.com/erolakcay/MicrobiomeCommunityAssembly)  [![Paper](https://img.shields.io/badge/Paper-Read-blue)](https://www.sciencedirect.com/science/article/abs/pii/S0040580924000662) 
 [![bioRxiv](https://img.shields.io/badge/bioRxiv-Read-yellow)](https://www.biorxiv.org/content/10.1101/2022.03.03.482885v1)
 
 
-<iframe src="https://docs.google.com/presentation/d/1Wij2YzWqCgd7qHOh4_ub3CPtB3YJ9twrwlKFuQEw0Tk/embed?start=true&loop=true&delayms=3000" width="640" height="480" allow="autoplay"></iframe>
 
