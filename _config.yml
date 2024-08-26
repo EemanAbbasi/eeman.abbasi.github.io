@@ -9,14 +9,14 @@
 # Basic Site Settings
 locale                   : "en-US"
 title_separator          : "-"
-name                     : &name "Eeman Abbasi"
-description              : &description "personal description"
-url                      : https://eemanabbasi.github.io/eeman.abbasi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Eeman Abbasi"
+description              : "Personal description"
+url                      : "https://eemanabbasi.github.io/eeman.abbasi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eeman.abbasi.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
+# Site Author - The following control what appears as part of the author content on the sidebar.
+#               If a field is blank the icon and link will not appear; otherwise, it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
@@ -27,6 +27,7 @@ author:
   employer         : "University of Pennsylvania"
   email            : "eabbasi@sas.upenn.edu" 
   linkedin         : "https://www.linkedin.com/in/eeman-a-517b2a127/"
+
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
