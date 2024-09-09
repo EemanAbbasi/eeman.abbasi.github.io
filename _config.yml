@@ -11,7 +11,7 @@ locale                   : "en-US"
 title_separator          : "-"
 name                     : "Eeman Abbasi"
 description              : "Personal description"
-url                      : "https://eemanabbasi.github.io/eeman.abbasi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://eemanabbasi.github.io/profile" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eeman.abbasi.github.io"
 
