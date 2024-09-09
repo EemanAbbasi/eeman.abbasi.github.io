@@ -29,7 +29,7 @@ Mount Holyoke College - Computer Science and Biology
 
 In this project, I utilized **RNAseq** and **WGS** data to analyze the TCGA cancer microbiome data, coupled with **gene expression** data to assess the host immune response. I applied **metabolic modeling** techniques to infer microbial interactions, such as competition and mutualism, within the community. The analysis revealed key relationships between microbiome richness, abundance, and immune gene expression, providing insights into the ecological dynamics driving that play a sttaustical significant role in patient prognosis. Detailed analysis workflows and data processing steps are showcased to highlight the methodology and the tools used in this research. Draft of the manuscript can be requested via email. 
 
-[![Source Code](https://img.shields.io/badge/Source_Code-View-brightgreen)](https://eemanabbasi.github.io/cancer_immune_tcga/) 
+[![Source Code](https://img.shields.io/badge/Source_Code-View-brightgreen)](https://eemanabbasi.github.io/cancer_immune_tcga/)
 <iframe src="https://docs.google.com/presentation/d/1yIWIkorXi7ipEFwIJdL2voSfnqBmCbevsTaI9RaPaQ0/embed?start=true&loop=true&delayms=3000" width="640" height="480" allow="autoplay"></iframe>
 
 
