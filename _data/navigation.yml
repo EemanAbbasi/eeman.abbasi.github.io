@@ -12,7 +12,7 @@ main:
     url: /portfolio/    
 
   - title: "Publications"
-    url: /Publications/    
+    url: /Publications/publications_list    
     
   #- title: "Portfolio"
   #  url: /portfolio/
